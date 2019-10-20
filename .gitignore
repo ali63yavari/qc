@@ -1,0 +1,13 @@
+/qc_broker_lib/.idea/
+/qc_broker_app/.idea/
+/qc_broker_app/cmake-build-debug/
+/qc_broker_app_output/
+/qc_broker_lib/cmake-build-debug/
+/qc_broker_lib_output/
+/qc_publisher_app/.idea/
+/qc_publisher_app/cmake-build-debug/
+/qc_publisher_app_output/
+/qc_subscriber_app/cmake-build-debug/
+/qc_subscriber_app/.idea/
+/qc_subscriber_app_output/
+/cmake-build-debug/
